@@ -1,5 +1,5 @@
 _repo: Au-temps-de-l-innocence_62147
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The age of innocence. French
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '51798'
     url: http://www.gutenberg.org/2009/agents/51798
     wikipedia: https://fr.wikipedia.org/wiki/Madeleine_Saint-Ren%C3%A9_Taillandier
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -26,6 +29,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Edith_Wharton
     - http://en.wikipedia.org/wiki/Edith_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62147#Au-temps-de-l-innocence
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
