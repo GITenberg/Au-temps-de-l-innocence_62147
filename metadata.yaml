@@ -1,0 +1,51 @@
+_repo: Au-temps-de-l-innocence_62147
+_version: 0.0.1
+alternative_title: The age of innocence. French
+contributor:
+  translator:
+    agent_name: Saint-René Taillandier, Madeleine Marie Louise Chevrillon
+    aliases:
+    - Saint-Rene Taillandier, Madeleine Marie Louise Chevrillon
+    - Taillandier, Madeleine Saint-René
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '51798'
+    url: http://www.gutenberg.org/2009/agents/51798
+    wikipedia: https://fr.wikipedia.org/wiki/Madeleine_Saint-Ren%C3%A9_Taillandier
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62147'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Upper class -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Separated people -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- GITenberg
+title: Au temps de l'innocence
+url: http://www.gutenberg.org/ebooks/62147
